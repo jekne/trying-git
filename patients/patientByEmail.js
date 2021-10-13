@@ -32,4 +32,5 @@ if (specificPatient !== undefined){
     console.log( `patient with: ${phoneNumber} is not found`)
 }
 
+console.log("test of git ")
 
